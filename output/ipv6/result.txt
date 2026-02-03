@@ -1,4 +1,5 @@
 📺央视频道,#genre#
+CCTV-13,http://pull-hs-f5.flive.douyincdn.com/media/stream-695199811564733100/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770511198&major_anchor_level=common&sign=a5f0064ed33415876c1d12fab10ca68e&t_id=037-202602010839576904EF192E278886357A-RENaqt&volcSecret=a5f0064ed33415876c1d12fab10ca68e&volcTime=1770511198
 
 💰央视付费频道,#genre#
 
@@ -13,4 +14,4 @@
 🪁动画频道,#genre#
 
 🕘️更新时间,#genre#
-2026-02-03 18:57:16,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+2026-02-03 21:16:47,http://pull-hs-f5.flive.douyincdn.com/media/stream-695199811564733100/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770511198&major_anchor_level=common&sign=a5f0064ed33415876c1d12fab10ca68e&t_id=037-202602010839576904EF192E278886357A-RENaqt&volcSecret=a5f0064ed33415876c1d12fab10ca68e&volcTime=1770511198
