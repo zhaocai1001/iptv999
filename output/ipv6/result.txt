@@ -3,8 +3,6 @@
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
@@ -15,4 +13,4 @@
 🪁动画频道,#genre#
 
 🕘️更新时间,#genre#
-2026-02-07 16:49:49,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+2026-02-07 18:48:27,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
