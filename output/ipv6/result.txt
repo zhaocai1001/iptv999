@@ -14,4 +14,4 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?a
 🪁   动画频道,#genre#
 
 🕘️更新时间,#genre#
-2026-03-01 02:50:19,http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772429111&major_anchor_level=common&sign=10fca6fe9e747abc153fc55ac3802b10&t_id=037-20260223132511384C2E852DE6485D4D5E-FCV5uD
+2026-03-01 04:42:18,http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772429111&major_anchor_level=common&sign=10fca6fe9e747abc153fc55ac3802b10&t_id=037-20260223132511384C2E852DE6485D4D5E-FCV5uD
