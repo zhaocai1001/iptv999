@@ -1,4 +1,5 @@
 📺   央视频道,#genre#
+CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906237&major_anchor_level=common&sign=ddcd6089cb8edea3eb08cddfb4729b21&t_id=037-20260416090356FD2B01904532B1DF9B07-RJ3RCM
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695633213632807596.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776420045&major_anchor_level=common&sign=312791ac58700a363d025c0a94c1bbd0&t_id=037-2026041018004416AA7E707B88F1063B85-Nh2VkU
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776694865&major_anchor_level=common&sign=b4eb8da6e3f5ce18d3fc3a3644a4f296&t_id=037-202604132221050DE10D71B5AE1F13452B-RbdRaV
 
@@ -12,4 +13,4 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?a
 🪁   动画频道,#genre#
 
 🕘️更新时间,#genre#
-2026-04-17 07:00:38,http://pull-hls-f11.douyincdn.com/media/stream-695633213632807596.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776420045&major_anchor_level=common&sign=312791ac58700a363d025c0a94c1bbd0&t_id=037-2026041018004416AA7E707B88F1063B85-Nh2VkU
+2026-04-17 11:05:58,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906237&major_anchor_level=common&sign=ddcd6089cb8edea3eb08cddfb4729b21&t_id=037-20260416090356FD2B01904532B1DF9B07-RJ3RCM
