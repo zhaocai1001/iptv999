@@ -9,5 +9,5 @@
 
 🪁   动画频道,#genre#
 
-🕘️更新时间,#genre#
-2026-05-16 05:24:09,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+🕘️正在更新中，刷新获取最新结果,#genre#
+2026-05-16 07:17:46,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
