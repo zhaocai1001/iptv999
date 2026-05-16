@@ -1,18 +1,36 @@
-CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-兵团卫视,http://112.123.243.37:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
-凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
-凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
-凤凰中文,https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
-凤凰中文,https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
-凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
-凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
-凤凰资讯,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
-凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
-凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
-凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+CGTN纪录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8
+福建综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=d1bcbc6565fa0cb9c7f76b1d8d687ea0&wsTime=1778932706
+福建新闻,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
+福建经济,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
+福建旅游,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
+海峡卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=9a285706afca90b5ac69ab0736dda94f&wsTime=1778932706
+厦门卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=aa996d6f529ce7baf7c74fb4085df19a&wsTime=1778932706
+陕西卫视 标清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227221/index.m3u8
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=bdb21f68f33a62f99f3fae508c93afa9&wsTime=1778932706
+内蒙古卫视 标清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227244/index.m3u8
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=0eb7034311fef0b342b75e8639d6fd7d&wsTime=1778932706
+新疆卫视 标清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227248/index.m3u8
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=83ad1308f26c38588ab488145347d6bd&wsTime=1778932706
+西藏卫视 标清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227217/index.m3u8
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=023a9e223e505e4cb295b91f90cbf21a&wsTime=1778932706
+哈哈炫动 标清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227335/index.m3u8
+梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=0b581511f05ea4caa418076e582bbb0a&wsTime=1778932706
+深圳卫视 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=b638ce83e9c92b5f59c034ca8f926159&wsTime=1778932706
+山西卫视 标清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225839/index.m3u8
+武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=5f0067a56f48f79028f34faadaa9c8a1&wsTime=1778932706
+宁夏卫视 标清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225849/index.m3u8
+睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=d80ff37cff545ded77fefbd9c1e63044&wsTime=1778932706
+新疆卫视 标清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225852/index.m3u8
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=58ba7b54b3fb4b46a98a0f3105975b22&wsTime=1778932706
+晴彩篮球,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=bc877d13a6fd203b879f9f7d8de9bd53&wsTime=1778932706
+晴彩广场舞,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227343/index.m3u8
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=13ddd9fdfe1c5e73ba76c6d2291d2644&wsTime=1778932706
+CETV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/index.m3u8
+CCTV4美洲,http://47.108.228.131:12193/live_ywzh.php?id=19
+金鹰纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
+CCTV12720,http://74.91.26.218:82/live/cctv12hd.m3u8
