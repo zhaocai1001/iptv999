@@ -1,24 +1,3 @@
-CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
-CCTV-4K超高清,http://192.151.150.154/live/cctv4k.m3u8
-兵团卫视,http://112.123.243.37:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-兵团卫视,http://59.39.89.130:60901/tsfile/live/0125_9.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,http://192.151.150.154/live/btws.m3u8
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
-延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
-凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
-凤凰中文,https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
-凤凰中文,https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
-凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-凤凰中文,http://218.206.193.218:8888/hls/66/index.m3u8
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
-凤凰资讯,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
-凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
-凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+CGTN纪录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8
+浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
