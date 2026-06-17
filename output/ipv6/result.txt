@@ -3,8 +3,6 @@
 💰   央视付费频道,#genre#
 
 📡   卫视频道,#genre#
-东方卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/dongfanghd265/51/20191230/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260617180204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=171.8.79.254&SecurityKey=20260617180204&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=23d7a369b826d4d8ffe8d8e7347b7636&sv=10004&ct=android
-河北卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/hbws/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600725&netType=0&sid=5910022316&pid=2028597139&timestamp=20260617180204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962042070&ParentNodeID=-99&assertID=5910022316&client_ip=171.8.79.254&SecurityKey=20260617180204&promotionId=&mvid=5900006782&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=23df67c5a828121c053d2f4610845861&sv=10004&ct=android
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 
 ⛰️   山东地方,#genre#
@@ -12,4 +10,4 @@
 🪁   动画频道,#genre#
 
 🕘️更新时间,#genre#
-2026-06-17 19:24:59,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/dongfanghd265/51/20191230/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260617180204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=171.8.79.254&SecurityKey=20260617180204&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=23d7a369b826d4d8ffe8d8e7347b7636&sv=10004&ct=android
+2026-06-18 00:03:52,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
