@@ -1,23 +1,27 @@
 📺   央视频道,#genre#
 CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
-CCTV-3,http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260724220203&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=171.8.79.254&SecurityKey=20260724220203&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2c32b0a81e493d71080359254d06c3d5&sv=10004&ct=android
 CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
-CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
+CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
 CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
+CCTV-9,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260725000204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=171.8.79.254&SecurityKey=20260725000204&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=44e251cebd3521c9196f4af50204b8b5&sv=10004&ct=android
 CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
+CCTV-10,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cctv10hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260725000204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=171.8.79.254&SecurityKey=20260725000204&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=702b4553c30c59c403f54013a1f66922&sv=10004&ct=android
 CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
+CCTV-12,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260725000204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=171.8.79.254&SecurityKey=20260725000204&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=098b816de9eacab304b771b32940d8bf&sv=10004&ct=android
 CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
 CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
+CCTV-15,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260725000205&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=171.8.79.254&SecurityKey=20260725000205&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2b49931af61f9baaa0217c925eb28bc6&sv=10004&ct=android
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
+CCTV-17,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260725000205&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=171.8.79.254&SecurityKey=20260725000205&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=31ffdf60992251b1041c00519265c983&sv=10004&ct=android
 
 📡   卫视频道,#genre#
-东南卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260724220206&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=171.8.79.254&SecurityKey=20260724220206&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c3388ca192fea9a8095b5f5faecb1e80&sv=10004&ct=android
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+辽宁卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/lnwshd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260725000208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=171.8.79.254&SecurityKey=20260725000208&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bac19a329adb0e5d27fd5ad38ff0fe98&sv=10004&ct=android
 
 💰   央视付费频道,#genre#
 
@@ -26,4 +30,4 @@ CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 🪁   动画频道,#genre#
 
 🕘️更新时间,#genre#
-2026-07-24 23:48:02,https://live.chinacert.cftest5.cn/cnmg/live/631780532
+2026-07-25 02:00:06,https://live.chinacert.cftest5.cn/cnmg/live/631780532
