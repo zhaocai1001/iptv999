@@ -1,14 +1,14 @@
 📺   央视频道,#genre#
 
-💰   央视付费频道,#genre#
-
 📡   卫视频道,#genre#
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+
+💰   央视付费频道,#genre#
 
 ⛰️   山东地方,#genre#
 
 🪁   动画频道,#genre#
 
 🕘️更新时间,#genre#
-2026-08-31 08:26:45,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+2026-08-31 16:28:07,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
