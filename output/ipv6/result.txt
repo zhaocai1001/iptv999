@@ -6,7 +6,5 @@
 
 💰   央视付费频道,#genre#
 
-🪁   动画频道,#genre#
-
 🕘️更新时间,#genre#
-2026-09-15 08:33:54,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+2026-09-15 15:33:43,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
