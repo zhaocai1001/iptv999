@@ -1,12 +1,13 @@
 📺   央视频道,#genre#
 
+💰   央视付费频道,#genre#
+
 📡   卫视频道,#genre#
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
-
-💰   央视付费频道,#genre#
 
 🪁   动画频道,#genre#
 
 🕘️更新时间,#genre#
-2026-09-16 08:13:22,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+2026-09-16 15:34:05,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
