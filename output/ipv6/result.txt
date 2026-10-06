@@ -8,5 +8,7 @@
 
 ⛰️   山东地方,#genre#
 
+🪁   动画频道,#genre#
+
 🕘️更新时间,#genre#
-2026-10-07 00:42:28,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+2026-10-07 06:37:21,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
