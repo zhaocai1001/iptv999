@@ -4,8 +4,8 @@
 
 📡   卫视频道,#genre#
 甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8
-河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1854721069&k=ca557faf4d869ca5959ee951a3da2817
+河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 四川卫视,http://x1x.bid:5146/rtp/239.3.1.29:8288
 
 ⛰️   山东地方,#genre#
@@ -13,4 +13,4 @@
 🪁   动画频道,#genre#
 
 🕘️更新时间,#genre#
-2026-11-16 08:09:56,https://live.gstv.com.cn/live/oxfhvoy.m3u8
+2026-11-16 13:48:15,https://live.gstv.com.cn/live/oxfhvoy.m3u8
