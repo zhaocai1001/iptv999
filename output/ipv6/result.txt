@@ -6,10 +6,11 @@
 甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1854721069&k=ca557faf4d869ca5959ee951a3da2817
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 ⛰️   山东地方,#genre#
 
 🪁   动画频道,#genre#
 
 🕘️更新时间,#genre#
-2026-11-17 08:20:56,https://live.gstv.com.cn/live/oxfhvoy.m3u8
+2026-11-17 18:41:39,https://live.gstv.com.cn/live/oxfhvoy.m3u8
